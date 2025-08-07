@@ -1,10 +1,10 @@
-# Individuals-using-the-internet-dashboard
+# individuals using the internet dashboard
 A Power BI dashboard that i made as a learning project, visualizing global internet usage rates (percentage of individuals using the internet), using data from the World Bank.
 ---
 
 ##  Live Dashboard Preview
 
-<iframe title="Individuals Using the Internet Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZDY5MzFhNmEtNDgyZC00MGRiLTg4OTgtOGE3OTQ2OWUxMDUwIiwidCI6ImIwZmViNWNiLWNhM2ItNGMxZC1hOWYzLTBmOWZjOTkxZTY4YiJ9&pageName=0b70bd0183d571d85ed9" frameborder="0" allowFullScreen="true"></iframe>
+https://app.powerbi.com/view?r=eyJrIjoiZDY5MzFhNmEtNDgyZC00MGRiLTg4OTgtOGE3OTQ2OWUxMDUwIiwidCI6ImIwZmViNWNiLWNhM2ItNGMxZC1hOWYzLTBmOWZjOTkxZTY4YiJ9
 
 ---
 
@@ -18,9 +18,9 @@ A Power BI dashboard that i made as a learning project, visualizing global int
 
 ##  Project Files
 
-- `YourDashboard.pbix` — Power BI dashboard file (replace with actual filename)
-- `data/internet_usage.csv` — (Optional) Export of raw data from World Bank
-- `images/dashboard_preview.png` — Static screenshot of key views
+- `individuals using the internet dashboard.pbix` — Power BI dashboard file
+- `share-of-individuals-using-the-internet.csv` —  Export of raw data from World Bank
+- `dashboard_preview.png` — Static screenshot of key views
 
 ---
 
