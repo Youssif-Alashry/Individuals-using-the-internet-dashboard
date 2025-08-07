@@ -8,6 +8,12 @@ https://app.powerbi.com/view?r=eyJrIjoiZDY5MzFhNmEtNDgyZC00MGRiLTg4OTgtOGE3OTQ2O
 
 ---
 
+##  Dashboard Preview
+
+![Dashboard Preview](dashboard_preview.png)
+
+---
+
 ##  Features
 
 - Interactive visualization of internet usage by year and region  
